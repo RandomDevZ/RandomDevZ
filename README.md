@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Al</h1>  
-<h3 align="center">A 16-year-old student with a passion for programming.</h3>  
+<h3 align="center">An 18-year-old student with a passion for programming.</h3>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randomdevz&label=Profile%20views&color=0e75b6&style=flat" alt="randomdevz" /> </p>  
   
